@@ -1,0 +1,324 @@
+{
+ "issues": {
+  "E1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/1",
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bdc"
+  },
+  "E2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/2",
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Blw"
+  },
+  "E3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/3",
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Buk"
+  },
+  "E4": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/4",
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B20"
+  },
+  "US1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/5",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bfk"
+  },
+  "US2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/6",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bf8"
+  },
+  "US3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/7",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BgU"
+  },
+  "US4": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/8",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bgw"
+  },
+  "US5": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/9",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Boc"
+  },
+  "US6": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/10",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bos"
+  },
+  "US7": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/11",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bw4"
+  },
+  "US8": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/12",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BxY"
+  },
+  "US9": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/13",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B6w"
+  },
+  "US10": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/14",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bhg"
+  },
+  "US11": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/15",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B7g"
+  },
+  "US12": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/16",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bx4"
+  },
+  "US13": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/17",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BpQ"
+  },
+  "T1.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/18",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BhU",
+   "iteration": true
+  },
+  "T1.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/19",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BiY",
+   "iteration": true
+  },
+  "T1.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/20",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BjA",
+   "iteration": true
+  },
+  "T2.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/21",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bh8",
+   "iteration": true
+  },
+  "T2.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/22",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bis",
+   "iteration": true
+  },
+  "T2.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/23",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bj0",
+   "iteration": true
+  },
+  "T3.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/24",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BkE",
+   "iteration": true
+  },
+  "T3.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/25",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bk8",
+   "iteration": true
+  },
+  "T3.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/26",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bl8",
+   "iteration": true
+  },
+  "T10.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/27",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BjI",
+   "iteration": true
+  },
+  "T10.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/28",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bp0",
+   "iteration": true
+  },
+  "T10.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/29",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BqU",
+   "iteration": true
+  },
+  "T4.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/30",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bjs"
+  },
+  "T4.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/31",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BkQ"
+  },
+  "T4.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/32",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BlY"
+  },
+  "T9.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/33",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B80"
+  },
+  "T9.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/34",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B9U"
+  },
+  "T9.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/35",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B-c"
+  },
+  "T9.4": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/36",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B_U"
+  },
+  "T11.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/37",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B98",
+   "iteration": true
+  },
+  "T11.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/38",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B-4",
+   "iteration": true
+  },
+  "T11.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/39",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B_o",
+   "iteration": true
+  },
+  "T5.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/40",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bq0",
+   "iteration": true
+  },
+  "T5.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/41",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bvw",
+   "iteration": true
+  },
+  "T5.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/42",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BwQ",
+   "iteration": true
+  },
+  "T13.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/43",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Brk",
+   "iteration": true
+  },
+  "T13.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/44",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BsU",
+   "iteration": true
+  },
+  "T6.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/45",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BrU",
+   "iteration": true
+  },
+  "T6.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/46",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Br8",
+   "iteration": true
+  },
+  "T6.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/47",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bso",
+   "iteration": true
+  },
+  "T7.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/48",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4BzE",
+   "iteration": true
+  },
+  "T7.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/49",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bz0",
+   "iteration": true
+  },
+  "T7.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/50",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B00",
+   "iteration": true
+  },
+  "T7.4": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/51",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B1Y",
+   "iteration": true
+  },
+  "T8.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/52",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B3w",
+   "iteration": true
+  },
+  "T8.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/53",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B4o",
+   "iteration": true
+  },
+  "T8.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/54",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B50",
+   "iteration": true
+  },
+  "T12.1": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/55",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4Bzo",
+   "iteration": true
+  },
+  "T12.2": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/56",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B0M",
+   "iteration": true
+  },
+  "T12.3": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/57",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B1I",
+   "iteration": true
+  },
+  "T12.4": {
+   "url": "https://github.com/ARCHI-M2026/P10/issues/58",
+   "linked": true,
+   "item": "PVTI_lADOEzxPHs4BrLWwzhH4B1k",
+   "iteration": true
+  }
+ }
+}

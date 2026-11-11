@@ -1,0 +1,4 @@
+ID,Type,Titre,Parent,Epic,Description,Criteres,Points,Priorite,Sprint,Responsable,Etat
+E1,Epic,Expérience utilisateur,,E1,Améliorer l'expérience utilisateur,,,,,,Backlog
+US1,US,Corriger les styles des pages,E1,E1,"En tant que notaire, je veux des pages lisibles afin de consulter les risques sans gêne.",Polices visibles | Affichage correct de 360 à 1920 px,4,Must,,,Backlog
+T1.1,Tâche,Auditer les styles CSS,US1,E1,Recenser les anomalies des pages principales,Pages listées | Anomalies classées par gravité,1,Must,S1,Dimitry,A faire
